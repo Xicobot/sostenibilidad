@@ -3,7 +3,7 @@
 
 Índice
 
-1.1. Introducción
+1.1. [Introducción](introducción.md)
 
 1.2. Sostenibilidad y desarrollo sostenible
 
@@ -21,6 +21,6 @@ Mapa conceptual (Herramientas utilizada)
 
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
-Referencias
+[Referencias](referencias.md)
 
 Autores
